@@ -40,5 +40,6 @@ list.append(l19)
 l20=input("enter a element to add in list")
 list.append(l20)
 l21=input("enter a element to add in list")
-list.append1(l21)
+list.append(l21)
 print(list)
+
