@@ -1,3 +1,0 @@
-line="i am suraj.\n \t i am knowing python\n its a amazing language" #this is a string variable that contains a sentence with the name "suraj" and the word "python", and it also contains some special characters like "\n" and "\t".
-print(line) #this code will print the string variable "line" with the special characters, and then print the modified string.
-'''this code will print the string variable "line" with the special characters, and then print the modified string.'''
