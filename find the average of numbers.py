@@ -1,5 +1,0 @@
-a=int(input("Enter first number: "))
-b=int(input("Enter second number: "))
-average=(a+b)/2     
-print("The average of the two numbers is:", average)
-'''this code will prompt the user to enter two numbers, calculate their average, and then print the result.'''
