@@ -1,2 +1,0 @@
-character="my name is suraj. i am learning <programing>" #this is a string variable that contains a sentence with the name "suraj" and the word "<programing>".
-print(character.split())#this code will print the string variable "character" with spaces between each character, and then print the modified string.
