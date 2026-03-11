@@ -1,0 +1,3 @@
+charecter="my name is suraj. i am learning <programing>" #this is a string variable that contains a sentence with the name "suraj" and the word "<programing>".
+print(charecter.replace("<programing>","python").replace(" ","   "))#this code will replace the word "<programing>" with "python" and remove all spaces in the string variable "charecter", and then print the modified string.
+'''this code will replace the word "<programing>" with "python" and remove all spaces in the string variable "charecter", and then print the modified string.'''

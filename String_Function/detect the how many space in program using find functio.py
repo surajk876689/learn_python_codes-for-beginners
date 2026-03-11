@@ -1,0 +1,3 @@
+character="Hello, World!"#this is a string variable that contains the sentence "Hello, World!".
+print(character.find(" ")) #this code will find the index of the first occurrence of a space character in the string variable "character" and print it. If there is no space, it will return -1.
+'''this code will find the index of the first occurrence of a space character in the string variable "character" and print it. If there is no space, it will return -1.'''
