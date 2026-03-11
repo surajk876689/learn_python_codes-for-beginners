@@ -1,3 +1,0 @@
-character="my name is suraj. i am learning <programing>" #this is a string variable that contains a sentence with the name "suraj" and the word "<programing>".
-print(character.replace("<programing>","python").replace("suraj","suraj kumar"))#this code will replace the word "<programing>" with "python" and "suraj" with "suraj kumar" in the string variable "character", and then print the modified string.
-'''this code will replace the word "<programing>" with "python" and "suraj" with "suraj kumar" in the string variable "character", and then print the modified string.'''
